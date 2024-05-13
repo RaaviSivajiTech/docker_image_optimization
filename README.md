@@ -2,7 +2,7 @@
 
 ## Methods to optimize and achieve smaller Docker images
 
-<img width="50%" align="center" alt="Docker_screen" src="image.png">
+<img width="800" height="600" style="display: block; margin: 0 auto" alt="Docker_screen" src="image.png">
 
 ### When it comes to building Docker containers, you should always strive for smaller images. Images that share layers and are smaller in size are quicker to transfer and deploy
 
