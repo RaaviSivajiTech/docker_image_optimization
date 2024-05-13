@@ -2,10 +2,9 @@
 
 ## Methods to optimize and achieve smaller Docker images
 
-![alt text](/image.png)
+                ![alt text](/image.png)
 
-![alt](image.png)
-
+                ![alt](image.png)
 
 ### When it comes to building Docker containers, you should always strive for smaller images. Images that share layers and are smaller in size are quicker to transfer and deploy
 
