@@ -9,3 +9,5 @@
 ### But how do you keep the size under control when every **RUN** statement creates a new layer, and you need intermediate artifacts before the image is ready?
 
 ### You may have noticed that most of the **Dockerfiles** in the wild have some weird tricks like this
+
+![alt](https://learnk8s.io/a/aab9d512e6d5693641b6f2173d5e8053.svg)
