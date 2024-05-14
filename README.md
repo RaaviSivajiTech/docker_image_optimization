@@ -10,4 +10,8 @@
 
 ### You may have noticed that most of the **Dockerfiles** in the wild have some weird tricks like this
 
-![alt](https://learnk8s.io/a/aab9d512e6d5693641b6f2173d5e8053.svg)
+<img width="800" height="600" style="display: block; margin: 0 auto" alt="Docker_screen" src="image1.png">
+
+### Why the **&&**? Why not running two **RUN** statements like this?
+
+<img width="800" height="600" style="display: block; margin: 0 auto" alt="Docker_screen" src="image2.png">
