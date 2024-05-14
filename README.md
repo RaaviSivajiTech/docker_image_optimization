@@ -15,3 +15,7 @@
 ### Why the **&&**? Why not running two **RUN** statements like this?
 
 <img width="800" height="600" style="display: block; margin: 0 auto" alt="Docker_screen" src="image-2.png">
+
+Since Docker 1.10 the **COPY**, **ADD** and **RUN** statements add a new layer to your image. The previous example created two layers instead of just one.
+
+<img width="800" height="600" style="display: block; margin: 0 auto" alt="Docker_screen" src="image-2.png">
